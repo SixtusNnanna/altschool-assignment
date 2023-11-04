@@ -1,7 +1,8 @@
 #First Assignment for School of Engineering Altschool Africa
 
 
-Welcome to my personal website! This README file provides a brief overview of the content and functionality of my website.
+Welcome to my website! This README file provides a brief overview of the content and functionality of my website.
+This website is only HTML
 
 ## Table of Contents
 -[Home](#home)
